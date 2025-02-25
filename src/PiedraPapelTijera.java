@@ -44,7 +44,7 @@ public class PiedraPapelTijera {
             }
         }
 
-        // 🎯 Resultado final
+
         System.out.println("Resultado Final:");
         System.out.println("Tus puntos:" + PuntosJugador);
         System.out.println("Puntos de la PC" + PuntosPC);
